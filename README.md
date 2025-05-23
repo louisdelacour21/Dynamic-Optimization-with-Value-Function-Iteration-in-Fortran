@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Fortran program implements a dynamic optimization model using value function iteration. It simulates a representative agent’s decision-making over capital and consumption, aiming to maximize utility across time under a basic economic model. The project was completed as part of the *Financial Markets* course at Universität Regensburg.
+This Fortran program implements a dynamic optimization model using value function iteration. It simulates a representative agent’s decision-making over capital and consumption, aiming to maximize utility across time under a basic economic model. The project was completed as part of the *Financial Econometrics* course at Universität Regensburg.
 
 ## Objective
 
