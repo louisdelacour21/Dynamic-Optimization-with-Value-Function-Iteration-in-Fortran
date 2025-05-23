@@ -1,0 +1,2 @@
+# Dynamic-Optimization-with-Value-Function-Iteration-in-Fortran
+This project implements a dynamic optimization model using value function iteration in Fortran. The goal is to determine the optimal consumption strategy over time for a representative agent who seeks to maximize their lifetime utility.  The model uses a discretized state space constructed via Chebyshev nodes for improved numerical accuracy.
